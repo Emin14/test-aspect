@@ -2,7 +2,7 @@
 
 ## Description
 
-Test task in aspect
+Test task in Aspect
 
 ## Preview
 
@@ -38,6 +38,7 @@ Start the server
 ## Examples for use
 
 Change current element:
+
 Путь:
 ```bash
   content[3].props.caption
@@ -48,6 +49,7 @@ Change current element:
 ```
 
 Create a new element:
+
 Путь:
 ```bash
   content[0]
